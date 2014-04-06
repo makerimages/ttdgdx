@@ -1,0 +1,59 @@
+
+# Typical ignoreable Eclipse files
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# IntelliJ IDEA specific
+.idea/tasks.xml
+.idea/workspace.xml
+.DS_Store
+log/
+logs/
+target/
+out/
+
+# NetBeans specific
+/nbproject/private
+/build/
+/dist/
+/saves/
+
+# Project specific
+/natives
+
+settings.properties
+
+MANIFEST.MF
+
+# Ignore screenshots because of the size
+/captures/
+
+Thumbs.db
+
+!/logs/AbsoluteLogger.log
+*.name
